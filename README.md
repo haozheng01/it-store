@@ -22,6 +22,10 @@
 | AEXML                      | light weight xml parsing                                    | https://github.com/tadija/AEXML                                |
 | BetterSegmentedControl     | customizable replacement for uisegmented control & uiswitch | https://github.com/gmarm/BetterSegmentedControl                |
 | Toast-Swift                | add toast notifications on the view                         | https://github.com/scalessec/Toast-Swift                       |
+| KeychainSwift              | helper functions for saving text in keychain securely       | https://github.com/evgenyneu/keychain-swift                    |
+| SwiftSoup                  | pure html parser with best of dom, css and jquery           | https://github.com/scinfu/SwiftSoup                            |
+| GCDWebServer               | http server for ios, macos and tvos                         | https://github.com/swisspol/GCDWebServer                       |
+| KTVHTTPCache               | powerful media cache framework                              | https://github.com/ChangbaDevs/KTVHTTPCache                    |
 
 ### Object-c 第三方
 
@@ -40,7 +44,6 @@
 | Switches                  | an animate switch collection, add beautiful customise switch in your application to boost ui and ux | https://github.com/jwd-ali/Switch-Animations         |
 | ALProgressView            | animated and fully customizable progress view with 2 styles: ring and bar                           | https://github.com/alxrguz/ALProgressView            |
 | HWPanModal                | 任意形式的底部弹框动画，iOS13 present 默认模态效果                                                  | https://github.com/HeathWang/HWPanModal              |
-| WHC_ConfuseSoftware       | 代码混淆                                                                                            | https://github.com/netyouli/WHC_ConfuseSoftware      |
 | IQKeyboardManager         | 键盘                                                                                                | https://github.com/hackiftekhar/IQKeyboardManager    |
 
 ### iOS 相关第三方
@@ -54,3 +57,19 @@
 | FirebaseAnalytics    | firebase 分析     | https://github.com/firebase/quickstart-ios     |
 | FirebaseDynamicLinks | firebase 深度链接 | https://github.com/firebase/quickstart-ios     |
 | Stripe               | 支付              | https://github.com/stripe/stripe-ios           |
+| LeanCloud            | LeanCloud sdk     | https://github.com/leancloud/leancloud-sdk     |
+
+### iOS 工具
+
+| name                | desc                                          | git                                             |
+| ------------------- | --------------------------------------------- | ----------------------------------------------- |
+| WHC_ConfuseSoftware | 代码混淆                                      | https://github.com/netyouli/WHC_ConfuseSoftware |
+| obfuscator          | llvm-4.0 代码混淆                             | https://github.com/obfuscator-llvm/obfuscator   |
+| ios-class-guard     | Objective-c obfuscator for mach-o executables | https://github.com/Polidea/ios-class-guard      |
+
+### python 第三方
+
+| name      | desc      |
+| --------- | --------- |
+| requests  | http 请求 |
+| traceback | 异常打印  |
