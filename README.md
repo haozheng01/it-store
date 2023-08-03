@@ -26,6 +26,8 @@
 | SwiftSoup                  | pure html parser with best of dom, css and jquery           | https://github.com/scinfu/SwiftSoup                            |
 | GCDWebServer               | http server for ios, macos and tvos                         | https://github.com/swisspol/GCDWebServer                       |
 | KTVHTTPCache               | powerful media cache framework                              | https://github.com/ChangbaDevs/KTVHTTPCache                    |
+| Zip                        | ziping and unzipping files                                  | https://github.com/marmelroy/Zip                               |
+| SwiftyXMLParser            | simple xml parser implemented                               | https://github.com/yahoojapan/SwiftyXMLParser                  |
 
 ### Object-c 第三方
 
@@ -45,6 +47,7 @@
 | ALProgressView            | animated and fully customizable progress view with 2 styles: ring and bar                           | https://github.com/alxrguz/ALProgressView            |
 | HWPanModal                | 任意形式的底部弹框动画，iOS13 present 默认模态效果                                                  | https://github.com/HeathWang/HWPanModal              |
 | IQKeyboardManager         | 键盘                                                                                                | https://github.com/hackiftekhar/IQKeyboardManager    |
+| JWT                       | json web token implementaion in object-c                                                            | https://github.com/yourkarma/JWT                     |
 
 ### iOS 相关第三方
 
