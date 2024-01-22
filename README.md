@@ -1,37 +1,41 @@
 ### Swift 第三方
 
-| name                       | desc                                                                       | git                                                            |
-| -------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| Alamofire                  | 网络请求                                                                   | https://github.com/Alamofire/Alamofire                         |
-| HandyJSON                  | json 解析                                                                  | https://github.com/alibaba/HandyJSON                           |
-| SwiftyJSON                 | json data 转换                                                             | https://github.com/SwiftyJSON/SwiftyJSON                       |
-| RxSwift                    | Reactive Programming in Swift                                              | https://github.com/ReactiveX/RxSwift                           |
-| Kingfisher                 | 图片加载                                                                   | https://github.com/onevcat/Kingfisher                          |
-| SnapKit                    | 布局                                                                       | https://github.com/SnapKit/SnapKit                             |
-| FSPagerView                | an elegant Screen Slide Library                                            | https://github.com/WenchaoD/FSPagerView                        |
-| NVActivityIndicatorView    | loading style                                                              | https://github.com/ninjaprox/NVActivityIndicatorView           |
-| JXCategoryView             | 分类切换滚动视图                                                           | https://github.com/pujiaxin33/JXCategoryView                   |
-| MaterialComponents/Dialogs | modular and customizable material design ui components                     | https://github.com/material-components/material-components-ios |
-| PromiseKit                 | Promises for Swift & ObjC                                                  | https://github.com/mxcl/PromiseKit                             |
-| WCDB.swift                 | 数据库                                                                     | https://github.com/Tencent/wcdb                                |
-| IQKeyboardManagerSwift     | 键盘                                                                       | https://github.com/hackiftekhar/IQKeyboardManager              |
-| JXPagingView               | 多页面嵌套、左右滑动、headview 悬浮、上下拉刷新                            | https://github.com/pujiaxin33/JXPagingView                     |
-| JXSegmentedView            | 分类切换滚动视图                                                           | https://github.com/pujiaxin33/JXSegmentedView                  |
-| JWTDecode                  | jwt decoder for ios, macos, tvos and watchos                               | https://github.com/auth0/JWTDecode.swift                       |
-| SwiftyRSA                  | rsa public/private key encryption in swift                                 | https://github.com/TakeScoop/SwiftyRSA                         |
-| AEXML                      | light weight xml parsing                                                   | https://github.com/tadija/AEXML                                |
-| BetterSegmentedControl     | customizable replacement for uisegmented control & uiswitch                | https://github.com/gmarm/BetterSegmentedControl                |
-| Toast-Swift                | add toast notifications on the view                                        | https://github.com/scalessec/Toast-Swift                       |
-| KeychainSwift              | helper functions for saving text in keychain securely                      | https://github.com/evgenyneu/keychain-swift                    |
-| SwiftSoup                  | pure html parser with best of dom, css and jquery                          | https://github.com/scinfu/SwiftSoup                            |
-| GCDWebServer               | http server for ios, macos and tvos                                        | https://github.com/swisspol/GCDWebServer                       |
-| KTVHTTPCache               | powerful media cache framework                                             | https://github.com/ChangbaDevs/KTVHTTPCache                    |
-| Zip                        | ziping and unzipping files                                                 | https://github.com/marmelroy/Zip                               |
-| SwiftyXMLParser            | simple xml parser implemented                                              | https://github.com/yahoojapan/SwiftyXMLParser                  |
-| Open3D-iOS[package]        | Swift package for using Open3D in iOS apps                                 | https://github.com/kewlbear/Open3D-iOS                         |
-| Open3D                     | fork of open3D for ios apps                                                | https://github.com/kewlbear/Open3D                             |
-| WKWebViewJavascriptBridge  | bridge for sending messages between swift and js in wkwebviews             | https://github.com/Lision/WKWebViewJavascriptBridge            |
-| MMKV                       | An efficient, small mobile key-value storage framework developed by WeChat | https://github.com/Tencent/MMKV                                |
+| name                       | desc                                                                                                                        | git                                                            |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| Alamofire                  | 网络请求                                                                                                                    | https://github.com/Alamofire/Alamofire                         |
+| HandyJSON                  | json 解析                                                                                                                   | https://github.com/alibaba/HandyJSON                           |
+| SwiftyJSON                 | json data 转换                                                                                                              | https://github.com/SwiftyJSON/SwiftyJSON                       |
+| RxSwift                    | Reactive Programming in Swift                                                                                               | https://github.com/ReactiveX/RxSwift                           |
+| Kingfisher                 | 图片加载                                                                                                                    | https://github.com/onevcat/Kingfisher                          |
+| SnapKit                    | 布局                                                                                                                        | https://github.com/SnapKit/SnapKit                             |
+| FSPagerView                | an elegant Screen Slide Library                                                                                             | https://github.com/WenchaoD/FSPagerView                        |
+| NVActivityIndicatorView    | loading style                                                                                                               | https://github.com/ninjaprox/NVActivityIndicatorView           |
+| JXCategoryView             | 分类切换滚动视图                                                                                                            | https://github.com/pujiaxin33/JXCategoryView                   |
+| MaterialComponents/Dialogs | modular and customizable material design ui components                                                                      | https://github.com/material-components/material-components-ios |
+| PromiseKit                 | Promises for Swift & ObjC                                                                                                   | https://github.com/mxcl/PromiseKit                             |
+| WCDB.swift                 | 数据库                                                                                                                      | https://github.com/Tencent/wcdb                                |
+| IQKeyboardManagerSwift     | 键盘                                                                                                                        | https://github.com/hackiftekhar/IQKeyboardManager              |
+| JXPagingView               | 多页面嵌套、左右滑动、headview 悬浮、上下拉刷新                                                                             | https://github.com/pujiaxin33/JXPagingView                     |
+| JXSegmentedView            | 分类切换滚动视图                                                                                                            | https://github.com/pujiaxin33/JXSegmentedView                  |
+| JWTDecode                  | jwt decoder for ios, macos, tvos and watchos                                                                                | https://github.com/auth0/JWTDecode.swift                       |
+| SwiftyRSA                  | rsa public/private key encryption in swift                                                                                  | https://github.com/TakeScoop/SwiftyRSA                         |
+| AEXML                      | light weight xml parsing                                                                                                    | https://github.com/tadija/AEXML                                |
+| BetterSegmentedControl     | customizable replacement for uisegmented control & uiswitch                                                                 | https://github.com/gmarm/BetterSegmentedControl                |
+| Toast-Swift                | add toast notifications on the view                                                                                         | https://github.com/scalessec/Toast-Swift                       |
+| KeychainSwift              | helper functions for saving text in keychain securely                                                                       | https://github.com/evgenyneu/keychain-swift                    |
+| SwiftSoup                  | pure html parser with best of dom, css and jquery                                                                           | https://github.com/scinfu/SwiftSoup                            |
+| GCDWebServer               | http server for ios, macos and tvos                                                                                         | https://github.com/swisspol/GCDWebServer                       |
+| KTVHTTPCache               | powerful media cache framework                                                                                              | https://github.com/ChangbaDevs/KTVHTTPCache                    |
+| Zip                        | ziping and unzipping files                                                                                                  | https://github.com/marmelroy/Zip                               |
+| SwiftyXMLParser            | simple xml parser implemented                                                                                               | https://github.com/yahoojapan/SwiftyXMLParser                  |
+| Open3D-iOS[package]        | Swift package for using Open3D in iOS apps                                                                                  | https://github.com/kewlbear/Open3D-iOS                         |
+| Open3D                     | fork of open3D for ios apps                                                                                                 | https://github.com/kewlbear/Open3D                             |
+| WKWebViewJavascriptBridge  | bridge for sending messages between swift and js in wkwebviews                                                              | https://github.com/Lision/WKWebViewJavascriptBridge            |
+| MMKV                       | An efficient, small mobile key-value storage framework developed by WeChat                                                  | https://github.com/Tencent/MMKV                                |
+| KSChart                    | k 线图/kline/kchart，已经集成 MA/EMA/MACD/KDJ/BOLL/RSI/WR/AVG 等指标，新增指标及其方便。适用于股票/区块链交易所等种类 App。 | https://github.com/sevtin/KSChart                              |
+| AAChartKit-Swift           | An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS.                                 | https://github.com/AAChartModel/AAChartKit-Swift               |
+| PNChart-Swift              | A simple and beautiful chart lib used in Piner and CoinsMan for iOS Swift Implementation                                    | https://github.com/kevinzhow/PNChart-Swift                     |
+| SwiftCharts                | Easy to use and highly customizable charts library for iOS                                                                  | https://github.com/owlmafia/SwiftCharts                        |
 
 ### Object-c 第三方
 
@@ -56,6 +60,10 @@
 | Python-iOS-support        | meta-package for building a version of python that can be embedded into an ios project                         | https://github.com/pybee/Python-iOS-support             |
 | Python-Apple-support      | meta-package for building a version of python that can be embedded into an macos, ios, tvos or watchoS project | https://github.com/beeware/Python-Apple-support         |
 | PythonKit                 | Swift framework to interact with Python                                                                        | https://github.com/pvieito/PythonKit                    |
+| YYStock                   | iOS YYStock-v2.0：timeline chart, long press, pinch, full-screen，K 线图...                                    | https://github.com/WillkYang/YYStock                    |
+| YYKline                   | iOS YYKline：Kline、Chart、Volume、Scroll、Scale、MACD、KDJ、K 线图、分时图..                                  | https://github.com/WillkYang/YYKline                    |
+| AAChartKit                | An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS.                    | https://github.com/AAChartModel/AAChartKit              |
+| PNChart                   | A simple and beautiful chart lib used in Piner and CoinsMan for iOS                                            | https://github.com/kevinzhow/PNChart                    |
 
 ### iOS 相关第三方
 
