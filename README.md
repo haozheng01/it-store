@@ -67,18 +67,19 @@
 
 ### iOS 相关第三方
 
-| name                 | desc                                                                              | git                                             |
-| -------------------- | --------------------------------------------------------------------------------- | ----------------------------------------------- |
-| OneSignal            | 推送                                                                              | https://github.com/OneSignal/OneSignal-iOS-SDK  |
-| FBSDKLoginKit        | facebook 登录                                                                     | https://github.com/facebook/facebook-ios-sdk    |
-| GoogleSignIn         | google 登录                                                                       | https://github.com/google/GoogleSignIn-iOS      |
-| FirebaseCrashlytics  | firebase 崩溃                                                                     | https://github.com/firebase/quickstart-ios      |
-| FirebaseAnalytics    | firebase 分析                                                                     | https://github.com/firebase/quickstart-ios      |
-| FirebaseDynamicLinks | firebase 深度链接                                                                 | https://github.com/firebase/quickstart-ios      |
-| Stripe               | 支付                                                                              | https://github.com/stripe/stripe-ios            |
-| LeanCloud            | LeanCloud sdk                                                                     | https://github.com/leancloud/leancloud-sdk      |
-| Open3D               | A Modern Library for 3D Data Processing                                           | https://github.com/isl-org/Open3D               |
-| Python-Apple-support | a meta-package for building a version of python that can be embedded into project | https://github.com/beeware/Python-Apple-support |
+| name                  | desc                                                                              | git                                                 |
+| --------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------- |
+| OneSignal             | 推送                                                                              | https://github.com/OneSignal/OneSignal-iOS-SDK      |
+| FBSDKLoginKit         | facebook 登录                                                                     | https://github.com/facebook/facebook-ios-sdk        |
+| GoogleSignIn          | google 登录                                                                       | https://github.com/google/GoogleSignIn-iOS          |
+| FirebaseCrashlytics   | firebase 崩溃                                                                     | https://github.com/firebase/quickstart-ios          |
+| FirebaseAnalytics     | firebase 分析                                                                     | https://github.com/firebase/quickstart-ios          |
+| FirebaseDynamicLinks  | firebase 深度链接                                                                 | https://github.com/firebase/quickstart-ios          |
+| Stripe                | 支付                                                                              | https://github.com/stripe/stripe-ios                |
+| LeanCloud             | LeanCloud sdk                                                                     | https://github.com/leancloud/leancloud-sdk          |
+| Open3D                | A Modern Library for 3D Data Processing                                           | https://github.com/isl-org/Open3D                   |
+| Python-Apple-support  | a meta-package for building a version of python that can be embedded into project | https://github.com/beeware/Python-Apple-support     |
+| Swift-Charts-Examples | An overview of the different types of charts you can make with Swift Charts       | https://github.com/jordibruin/Swift-Charts-Examples |
 
 ### iOS 工具
 
