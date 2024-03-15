@@ -94,8 +94,9 @@
 
 ### python 第三方
 
-| name      | desc                                                             | git                                  |
-| --------- | ---------------------------------------------------------------- | ------------------------------------ |
-| requests  | http 请求                                                        |                                      |
-| traceback | 异常打印                                                         |                                      |
-| ebooklib  | Python E-book library for handling books in EPUB2/EPUB3 format - | https://github.com/aerkalov/ebooklib |
+| name      | desc                                                                                                                                | git                                  |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| requests  | http 请求                                                                                                                           |                                      |
+| traceback | 异常打印                                                                                                                            |                                      |
+| ebooklib  | Python E-book library for handling books in EPUB2/EPUB3 format -                                                                    | https://github.com/aerkalov/ebooklib |
+| PyMuPDF   | PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents. | https://github.com/pymupdf/PyMuPDF   |
