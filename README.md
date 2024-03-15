@@ -94,7 +94,8 @@
 
 ### python 第三方
 
-| name      | desc      |
-| --------- | --------- |
-| requests  | http 请求 |
-| traceback | 异常打印  |
+| name      | desc                                                             | git                                  |
+| --------- | ---------------------------------------------------------------- | ------------------------------------ |
+| requests  | http 请求                                                        |                                      |
+| traceback | 异常打印                                                         |                                      |
+| ebooklib  | Python E-book library for handling books in EPUB2/EPUB3 format - | https://github.com/aerkalov/ebooklib |
