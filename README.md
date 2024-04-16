@@ -100,3 +100,11 @@
 | traceback | 异常打印                                                                                                                            |                                      |
 | ebooklib  | Python E-book library for handling books in EPUB2/EPUB3 format -                                                                    | https://github.com/aerkalov/ebooklib |
 | PyMuPDF   | PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents. | https://github.com/pymupdf/PyMuPDF   |
+
+### Flutter
+
+| name            | desc                                                                                                     | git                                               |
+| --------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| freezed         | Code generation for immutable classes that has a simple syntax/API without compromising on the features. | https://github.com/rrousselGit/freezed            |
+| easy_refresh    | A flutter widget that provides pull-down refresh and pull-up load.                                       | https://github.com/xuelongqy/flutter_easy_refresh |
+| pull_to_refresh | a widget provided to the flutter scroll component drop-down refresh and pull up load.                    | https://github.com/peng8350/flutter_pulltorefresh |
