@@ -108,3 +108,4 @@
 | freezed         | Code generation for immutable classes that has a simple syntax/API without compromising on the features. | https://github.com/rrousselGit/freezed            |
 | easy_refresh    | A flutter widget that provides pull-down refresh and pull-up load.                                       | https://github.com/xuelongqy/flutter_easy_refresh |
 | pull_to_refresh | a widget provided to the flutter scroll component drop-down refresh and pull up load.                    | https://github.com/peng8350/flutter_pulltorefresh |
+| fluwx           | Flutter 版微信 SDK.WeChat SDK for flutter.                                                               | https://github.com/OpenFlutter/fluwx              |
