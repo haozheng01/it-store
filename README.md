@@ -68,6 +68,7 @@
 | iOS-Echarts               | iOS charts                                                                                                      | https://github.com/Pluto-Y/iOS-Echarts/tree/Echarts3/iOS-Echarts |
 | MMDrawerController        | A lightweight, easy to use, Side Drawer Navigation Controller                                                   | https://github.com/mutualmobile/MMDrawerController               |
 | MGSwipeTableCell          | An easy to use UITableViewCell subclass that allows to display swippable buttons with a variety of transitions. | https://github.com/MortimerGoro/MGSwipeTableCell                 |
+| BRPickerView              | iOS 中常用的选择器组件，主要包括：日期、地址、自定义、字符串选择器                                              | https://github.com/agiapp/BRPickerView                           |
 
 ### iOS 相关第三方
 
