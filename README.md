@@ -40,33 +40,34 @@
 
 ### Object-c 第三方
 
-| name                      | desc                                                                                                           | git                                                              |
-| ------------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| MBProgressHUD             | MBProgressHUD + Customizations                                                                                 | https://github.com/jdg/MBProgressHUD                             |
-| MJRefresh                 | pull to refresh                                                                                                | https://github.com/CoderMJLee/MJRefresh                          |
-| YYText                    | text framework for ios to display and edit rich text                                                           | https://github.com/ibireme/YYText                                |
-| FDFullscreenPopGesture    | navigationcontroller's category to enable fullscreen pop gesture                                               | https://github.com/forkingdog/FDFullscreenPopGesture             |
-| CRBoxInputView            | 短信验证码输入框，支持密文模式                                                                                 | https://github.com/CRAnimation/CRBoxInputView                    |
-| iCarousel                 | simple, highly customisable, data-driven 3d carousel for ios and macos                                         | https://github.com/nicklockwood/iCarousel                        |
-| DTCoreText                | methods to allow using html code with coretext                                                                 | https://github.com/Cocoanetics/DTCoreText                        |
-| ZFDragableModalTransition | custom animation transition for present model view controller                                                  | https://github.com/zoonooz/ZFDragableModalTransition             |
-| SSZipArchive              | simple utility class for zipping and unzipping files on ios, macos and tvos                                    | https://github.com/ZipArchive/ZipArchive                         |
-| ZZCircleProgress          | caanimation 实现的高度可定制化环形进度条                                                                       | https://github.com/zhouxing5311/ZZCircleProgress                 |
-| Switches                  | an animate switch collection, add beautiful customise switch in your application to boost ui and ux            | https://github.com/jwd-ali/Switch-Animations                     |
-| ALProgressView            | animated and fully customizable progress view with 2 styles: ring and bar                                      | https://github.com/alxrguz/ALProgressView                        |
-| HWPanModal                | 任意形式的底部弹框动画，iOS13 present 默认模态效果                                                             | https://github.com/HeathWang/HWPanModal                          |
-| IQKeyboardManager         | 键盘                                                                                                           | https://github.com/hackiftekhar/IQKeyboardManager                |
-| JWT                       | json web token implementaion in object-c                                                                       | https://github.com/yourkarma/JWT                                 |
-| WebViewJavascriptBridge   | bridge for sending messages between oc nad js                                                                  | https://github.com/marcuswestin/WebViewJavascriptBridge          |
-| Python-iOS-support        | meta-package for building a version of python that can be embedded into an ios project                         | https://github.com/pybee/Python-iOS-support                      |
-| Python-Apple-support      | meta-package for building a version of python that can be embedded into an macos, ios, tvos or watchoS project | https://github.com/beeware/Python-Apple-support                  |
-| PythonKit                 | Swift framework to interact with Python                                                                        | https://github.com/pvieito/PythonKit                             |
-| YYStock                   | iOS YYStock-v2.0：timeline chart, long press, pinch, full-screen，K 线图...                                    | https://github.com/WillkYang/YYStock                             |
-| YYKline                   | iOS YYKline：Kline、Chart、Volume、Scroll、Scale、MACD、KDJ、K 线图、分时图..                                  | https://github.com/WillkYang/YYKline                             |
-| AAChartKit                | An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS.                    | https://github.com/AAChartModel/AAChartKit                       |
-| PNChart                   | A simple and beautiful chart lib used in Piner and CoinsMan for iOS                                            | https://github.com/kevinzhow/PNChart                             |
-| iOS-Echarts               | iOS charts                                                                                                     | https://github.com/Pluto-Y/iOS-Echarts/tree/Echarts3/iOS-Echarts |
-| MMDrawerController        | A lightweight, easy to use, Side Drawer Navigation Controller                                                  | https://github.com/mutualmobile/MMDrawerController               |
+| name                      | desc                                                                                                            | git                                                              |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| MBProgressHUD             | MBProgressHUD + Customizations                                                                                  | https://github.com/jdg/MBProgressHUD                             |
+| MJRefresh                 | pull to refresh                                                                                                 | https://github.com/CoderMJLee/MJRefresh                          |
+| YYText                    | text framework for ios to display and edit rich text                                                            | https://github.com/ibireme/YYText                                |
+| FDFullscreenPopGesture    | navigationcontroller's category to enable fullscreen pop gesture                                                | https://github.com/forkingdog/FDFullscreenPopGesture             |
+| CRBoxInputView            | 短信验证码输入框，支持密文模式                                                                                  | https://github.com/CRAnimation/CRBoxInputView                    |
+| iCarousel                 | simple, highly customisable, data-driven 3d carousel for ios and macos                                          | https://github.com/nicklockwood/iCarousel                        |
+| DTCoreText                | methods to allow using html code with coretext                                                                  | https://github.com/Cocoanetics/DTCoreText                        |
+| ZFDragableModalTransition | custom animation transition for present model view controller                                                   | https://github.com/zoonooz/ZFDragableModalTransition             |
+| SSZipArchive              | simple utility class for zipping and unzipping files on ios, macos and tvos                                     | https://github.com/ZipArchive/ZipArchive                         |
+| ZZCircleProgress          | caanimation 实现的高度可定制化环形进度条                                                                        | https://github.com/zhouxing5311/ZZCircleProgress                 |
+| Switches                  | an animate switch collection, add beautiful customise switch in your application to boost ui and ux             | https://github.com/jwd-ali/Switch-Animations                     |
+| ALProgressView            | animated and fully customizable progress view with 2 styles: ring and bar                                       | https://github.com/alxrguz/ALProgressView                        |
+| HWPanModal                | 任意形式的底部弹框动画，iOS13 present 默认模态效果                                                              | https://github.com/HeathWang/HWPanModal                          |
+| IQKeyboardManager         | 键盘                                                                                                            | https://github.com/hackiftekhar/IQKeyboardManager                |
+| JWT                       | json web token implementaion in object-c                                                                        | https://github.com/yourkarma/JWT                                 |
+| WebViewJavascriptBridge   | bridge for sending messages between oc nad js                                                                   | https://github.com/marcuswestin/WebViewJavascriptBridge          |
+| Python-iOS-support        | meta-package for building a version of python that can be embedded into an ios project                          | https://github.com/pybee/Python-iOS-support                      |
+| Python-Apple-support      | meta-package for building a version of python that can be embedded into an macos, ios, tvos or watchoS project  | https://github.com/beeware/Python-Apple-support                  |
+| PythonKit                 | Swift framework to interact with Python                                                                         | https://github.com/pvieito/PythonKit                             |
+| YYStock                   | iOS YYStock-v2.0：timeline chart, long press, pinch, full-screen，K 线图...                                     | https://github.com/WillkYang/YYStock                             |
+| YYKline                   | iOS YYKline：Kline、Chart、Volume、Scroll、Scale、MACD、KDJ、K 线图、分时图..                                   | https://github.com/WillkYang/YYKline                             |
+| AAChartKit                | An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS.                     | https://github.com/AAChartModel/AAChartKit                       |
+| PNChart                   | A simple and beautiful chart lib used in Piner and CoinsMan for iOS                                             | https://github.com/kevinzhow/PNChart                             |
+| iOS-Echarts               | iOS charts                                                                                                      | https://github.com/Pluto-Y/iOS-Echarts/tree/Echarts3/iOS-Echarts |
+| MMDrawerController        | A lightweight, easy to use, Side Drawer Navigation Controller                                                   | https://github.com/mutualmobile/MMDrawerController               |
+| MGSwipeTableCell          | An easy to use UITableViewCell subclass that allows to display swippable buttons with a variety of transitions. | https://github.com/MortimerGoro/MGSwipeTableCell                 |
 
 ### iOS 相关第三方
 
